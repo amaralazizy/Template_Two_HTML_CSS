@@ -1,2 +1,2 @@
-# Template_Two_HTML_CSS
+# Template Two HTML CSS
 Implementing Kasper template using html and css only
